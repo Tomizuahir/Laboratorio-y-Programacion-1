@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1523405944 source:c:\users\alumno\desktop\laboratorio-y-programacion-1-master\ejercicios en c\ejercicio10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1523406820 source:c:\users\alumno\downloads\lab-prog.-i-master\bibliotecas de funciones - 03.04.2018\funcion getint\funcs.c
+	<stdio.h>
+	<stdlib.h>
+
