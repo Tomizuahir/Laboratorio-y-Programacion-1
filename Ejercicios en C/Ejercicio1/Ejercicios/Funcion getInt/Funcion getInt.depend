@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1522797039 source:d:\ejercicios\funcion getint\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1522800584 source:d:\ejercicios\funcion getint\funcs.c
+

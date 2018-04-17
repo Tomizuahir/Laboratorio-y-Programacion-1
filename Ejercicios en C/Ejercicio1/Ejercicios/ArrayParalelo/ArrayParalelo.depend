@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523582472 source:c:\users\alumno\desktop\ejercicios\arrayparalelo\funcs.c
+	<stdio.h>
+	<stdlib.h>
+
+1524005813 source:c:\users\alumno\desktop\ejercicios\arrayparalelo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcs.h"
+
+1523582472 c:\users\alumno\desktop\ejercicios\arrayparalelo\funcs.h
+
