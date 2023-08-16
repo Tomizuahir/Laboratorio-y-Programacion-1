@@ -1,0 +1,7 @@
+h1{
+    color: blue;
+    font-size: 24px;
+    text-align: center;
+}
+/*colocamos el selector para dar estilo al h1 y dentro de la llave es la configuracion*/
+/*font-size es para el tamano de la letra*/
